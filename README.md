@@ -73,10 +73,11 @@ Instead of avoiding traffic, Safe-Route uses traffic density, lighting data, and
 🛠️ Tech Stack (Proposed)
 	•	Frontend: React / Flutter
 	•	Backend: Python (FastAPI / Flask)
-	•	AI/ML: Scikit-learn, TensorFlow / PyTorch
+	•	AI/ML: Scikit-learn, TensorFlow / PyTorch, Redis 
 	•	Maps: Google Maps API / OpenStreetMap
-	•	Data Sources: Traffic APIs, public safety datasets
-	•	Database: PostgreSQL / Firebase
+	•	Data Sources: Traffic APIs, public safety dataset
+	•	Database: PostgreSQL / Firebase/ Mongo DB/ Docker.com 
+	
 
 ⸻
 
@@ -113,7 +114,20 @@ A user traveling at 11:30 PM selects a route:
 	•	Cab drivers
 	•	Delivery personnel
 	•	Students & night-shift workers
+	•	Smart City Ready 
+	
+	
 
+⸻
+
+Contributors Name of this Project/ Problem  Statement  
+1. Saud Rana
+2. Aanya Pal
+3. Bhumuika Singh
+4. Nirvish Soni
+5. Heman Darji
+6. Nirvish Soni
+   
 ⸻
 
 🏁 Conclusion
