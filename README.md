@@ -126,7 +126,7 @@ A user traveling at 11:30 PM selects a route:
 3. Bhumuika Singh
 4. Nirvish Soni
 5. Heman Darji
-6. Nirvish Soni
+6. Norman Teli 
    
 
  ### Conclusion
