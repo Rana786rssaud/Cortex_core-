@@ -134,4 +134,4 @@ A user traveling at 11:30 PM selects a route:
  ### Conclusion
 Safe-Route redefines navigation by prioritizing human safety over speed, leveraging AI, real-time data, and intelligent decision-making to make night travel safer for everyone.
 
-Safe-Route redefines navigation by prioritizing human safety over speed, leveraging AI, real-time data, and intelligent decision-making to make night travel safer for everyone.
+
