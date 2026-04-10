@@ -1,4 +1,4 @@
-# Cortex_core-
+# Cortex Core
 Safe-Route: AI-Powered Night Navigation System
 
  Track
