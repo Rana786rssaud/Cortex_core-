@@ -7,6 +7,8 @@ Safe-Route: AI-Powered Night Navigation System
 
  ### Problem Statement
 
+ Project Working on : http://localhost:8000 
+
 Navigating safely at night is a major concern, especially in urban and semi-urban areas. Traditional navigation systems like Google Maps optimize for shortest or fastest routes but may direct users through empty, poorly lit, or unsafe roads during nighttime.
 
 Safe-Route addresses this issue by detecting traffic presence at night and intentionally routing users through well-populated, well-lit, and active roads, even if they are slightly longer—thus prioritizing user safety over speed.
