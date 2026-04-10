@@ -1,11 +1,11 @@
 # Cortex_core-
 Safe-Route: AI-Powered Night Navigation System
 
-📌 Track
+ Track
 
-Track 2 – Safe-Route (AI/ML, GenAI, NLP)
+### Track 2 – Safe-Route (AI/ML, GenAI, NLP)
 
-🧩 Problem Statement
+ ### Problem Statement
 
 Navigating safely at night is a major concern, especially in urban and semi-urban areas. Traditional navigation systems like Google Maps optimize for shortest or fastest routes but may direct users through empty, poorly lit, or unsafe roads during nighttime.
 
@@ -13,7 +13,7 @@ Safe-Route addresses this issue by detecting traffic presence at night and inten
 
 
 
-🎯 Objective
+ ### Objective
 
 To build an AI-driven navigation system that:
 	•	Identifies safe routes at night
@@ -23,7 +23,7 @@ To build an AI-driven navigation system that:
 
 
 
-💡 Key Idea
+ ### Key Idea
 
 More traffic at night = more safety
 
@@ -31,7 +31,7 @@ Instead of avoiding traffic, Safe-Route uses traffic density, lighting data, and
 
 
 
-🏗️ System Architecture / Flow
+ ### System Architecture / Flow
 	1.	User Input
 	•	Source & destination
 	•	Time (night mode auto-enabled)
@@ -61,7 +61,7 @@ Instead of avoiding traffic, Safe-Route uses traffic density, lighting data, and
 
 
 
-🧠 AI & ML Components
+ ### AI & ML Components
 	•	Traffic Density Analysis
 	•	Night-time Risk Scoring Model
 	•	Route Safety Scoring Algorithm
@@ -70,7 +70,7 @@ Instead of avoiding traffic, Safe-Route uses traffic density, lighting data, and
 
 
 
-🛠️ Tech Stack (Proposed)
+ ### Tech Stack (Proposed)
 	•	Frontend: React / Flutter
 	•	Backend: Python (FastAPI / Flask)
 	•	AI/ML: Scikit-learn, TensorFlow / PyTorch, Redis 
@@ -81,7 +81,7 @@ Instead of avoiding traffic, Safe-Route uses traffic density, lighting data, and
 
 
 
-🔐 Safety Parameters Considered
+ ### Safety Parameters Considered
 	•	Real-time traffic presence
 	•	Road illumination (street lights)
 	•	Nearby open shops / POIs
@@ -91,7 +91,7 @@ Instead of avoiding traffic, Safe-Route uses traffic density, lighting data, and
 
 
 
-📊 Example Use Case
+ ### Example Use Case
 
 A user traveling at 11:30 PM selects a route:
 	•	Traditional map → shorter but empty road ❌
@@ -99,7 +99,7 @@ A user traveling at 11:30 PM selects a route:
 
 
 
-🚀 Future Enhancements
+ ### Future Enhancements
 	•	SOS integration
 	•	Live police & emergency station proximity
 	•	Community safety ratings
@@ -108,7 +108,7 @@ A user traveling at 11:30 PM selects a route:
 
 
 
-👥 Target Users
+ Target Users
 	•	Night commuters
 	•	Women travelers
 	•	Cab drivers
@@ -120,7 +120,7 @@ A user traveling at 11:30 PM selects a route:
 
 
 
-Contributors Name of this Project/ Problem  Statement  
+### Contributors Name of this Project/ Problem  Statement  
 1. Saud Rana
 2. Aanya Pal
 3. Bhumuika Singh
@@ -129,7 +129,7 @@ Contributors Name of this Project/ Problem  Statement
 6. Nirvish Soni
    
 
-🏁 Conclusion
+ Conclusion
 Safe-Route redefines navigation by prioritizing human safety over speed, leveraging AI, real-time data, and intelligent decision-making to make night travel safer for everyone.
 
 Safe-Route redefines navigation by prioritizing human safety over speed, leveraging AI, real-time data, and intelligent decision-making to make night travel safer for everyone.
